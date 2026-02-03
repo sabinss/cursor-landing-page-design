@@ -489,3 +489,11 @@ body {
 .footer-links a:hover {
   color: #fff;
 }
+
+.footer-copyright {
+  text-align: start;
+  color: #a1a09e;
+  font-size: 0.95rem;
+  margin-top: 90px;
+  margin-left: 220px;
+}
