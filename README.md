@@ -47,3 +47,12 @@ A static recreation of the Cursor marketing landing page, built with HTML and CS
 - **Icons** – Optional: Font Awesome (CDN).
 
 No build step or JavaScript required; open `index.html` in a browser to view.
+
+## Final Website Images
+
+![Alt text](assets/final-screenshot/1.png)
+![Alt text](assets/final-screenshot/2.png)
+![Alt text](assets/final-screenshot/3.png)
+![Alt text](assets/final-screenshot/4.png)
+![Alt text](assets/final-screenshot/5.png)
+![Alt text](assets/final-screenshot/6.png)
